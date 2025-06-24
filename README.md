@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**gitmedamin/gitmedamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Med Amin Hammami, I am a passionate Full-Stack Developer specializing in **Angular** for front-end development, **Node.js** for back-end solutions, and **Python** for web/mobile applications. I also build decentralized applications (dApps) using blockchain technology.  
+All projects are crafted from the ground up, from architecture design to solving real-world problems with clean, scalable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 I’m interested in:
+- Web & Mobile Development
+- Blockchain Technology
+
+
+### 🛠️ Skills & Technologies:
+- **Frontend**: Angular, HTML, CSS, Bootstrap
+- **Backend**: Node.js, .NET
+- **Languages**: Python, JavaScript/TypeScript
+- **Mobile**: Python (Kivy, BeeWare), React Native
+- **Blockchain**: Smart Contracts, Ethereum, Solidity
+- **Databases**: SQL Server, MySQL, MongoDB
+
