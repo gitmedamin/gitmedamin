@@ -12,9 +12,9 @@ All projects are crafted from the ground up, from architecture design to solving
 
 ### 🛠️ Skills & Technologies:
 - **Frontend**: Angular, HTML, CSS, Bootstrap
-- **Backend**: Node.js, .NET
+- **Backend**: Node.js, Python,java
 - **Languages**: Python, JavaScript/TypeScript
-- **Mobile**: Python (Kivy, BeeWare), React Native
+- **Mobile**:  Flutter
 - **Blockchain**: Smart Contracts, Ethereum, Solidity
-- **Databases**: SQL Server, MySQL, MongoDB
+- **Databases**: SQL Server, MySQL, MongoDB,NoSql,PostgreSQL
 
