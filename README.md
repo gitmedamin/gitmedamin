@@ -18,3 +18,4 @@ All projects are crafted from the ground up, from architecture design to solving
 - **Blockchain**: Smart Contracts, Ethereum, Solidity
 - **Databases**: SQL Server, MySQL, MongoDB,NoSql,PostgreSQL
 
+https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg
